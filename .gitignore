@@ -10,3 +10,5 @@ venv/
 
 chroma_persistent_storage/*
 chroma_persistent_storage/chroma.sqlite3
+chroma_persistent_storage/cb4891d4-7c34-4b6f-9530-0427ea35200b/length.bin
+chroma_persistent_storage/cb4891d4-7c34-4b6f-9530-0427ea35200b/data_level0.bin
