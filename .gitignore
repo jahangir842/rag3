@@ -7,3 +7,6 @@ venv/
 .idea/
 # ignore the .env file
 .env
+
+chroma_persistent_storage/*
+chroma_persistent_storage/chroma.sqlite3

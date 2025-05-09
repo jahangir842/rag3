@@ -3,20 +3,15 @@ from dotenv import load_dotenv
 import chromadb
 import requests
 from chromadb.utils import embedding_functions
-from sentence_transformers import SentenceTransformer
-import json
 
 # Load environment variables from .env file
 load_dotenv()
-
-# Initialize the Sentence Transformer model
-model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # Initialize the Chroma client with persistence
 chroma_client = chromadb.PersistentClient(path="chroma_persistent_storage")
 collection_name = "document_qa_collection"
 
-# Custom embedding function using Sentence Transformers
+# Initialize embedding function using ChromaDB's built-in support
 sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(
     model_name='all-MiniLM-L6-v2'
 )
@@ -104,7 +99,9 @@ def generate_response(question, relevant_chunks):
 
 # Example usage
 if __name__ == "__main__":
-    question = "Who is Jahangir Alam"
+    question = "What is the qulification of Jahangir Alam and where he is from?"
+    print("==== Asking question ====") 
+    print(question)         
     relevant_chunks = query_documents(question)
     answer = generate_response(question, relevant_chunks)
     print(answer)
