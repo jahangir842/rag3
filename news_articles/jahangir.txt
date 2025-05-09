@@ -1,0 +1,92 @@
+Jahangir Alam - Devops Engineer
+Rawalpindi | jahangir80842@gmail.com | +92-323-8878681 | medium.com/@jahangir80842
+linkedin.com/in/jahangir-a-45886428a/ | github.com/jahangir842
+Profile
+DevOps Engineer with expertise in Linux System Administration, Windows Servers, VMware ESXi , Azure and AWS
+Cloud. Skilled in leveraging Github Actions and Azure DevOps for CI/CD pipelines and automation, with a
+strong focus on designing and managing cloud infrastructure, streamlining workflows, and maintaining robust
+system security and performance.
+Skills
+• Version Control: Git, GitLab
+• Programming Languages: Python, Bash
+• DevOps Tools: Azure DevOps, Github Actions, Gitlab
+• Cloud Platforms: AWS, Azure, GCP
+• Operating Systems: Linux, Windows
+• Mail: Postfix, Dovecot
+• Web Servers: Apache, Nginx, Litespeed
+• Cybersecurity: McAfee Security Center, Kaspersky Security Center
+• Configuration / Automation: Ansible, Terraform
+• Monitoring & Logging: Prometheus, Grafana, ELK Stack
+• Networking: TCP/IP, DNS, Load Balancing
+• Virtualization: VMware ESXi, Hyper-V, Dockers, Singularity
+• Active Directory: User authentication, Group Policy management, LDAP
+• DHCP: Setup, management, and troubleshooting of Dynamic Host Configuration Protocol
+• Certificate Authority (CA) Server: SSL/TLS certificate management
+• Big Data: Apache Spark
+Experience
+National Science & Technology Park
+Islamabad
+DevOps Engineer
+Mar 2023 – Present
+Experienced DevOps and Cloud Engineer with expertise in designing, implementing, and maintaining scalable
+infrastructure across Azure and AWS. Skilled in Azure DevOps and GitHub Actions for CI/CD automation.
+Proficient in Infrastructure as Code (IaC) using Terraform and Ansible. Focused on automation, configuration
+management, and cloud-native best practices.
+Skills: IaC, Azure, AWS, IAM, GitHub Actions, CI/CD, Bash, Docker, Grafana, Nginx, Jira, Linux, LLM Deployment
+System Administrator
+Jul 2021 – Mar 2023
+Managed virtualization using VMware and Kubernetes, improved security with firewalls and SSL/TLS, and
+supported cloud infrastructure (AWS and Azure). Oversaw Linux/Windows servers, CI/CD with GitLab, and
+support systems like Zoho and Redmine. Delivered technical support for Office 365 and Google Workspace.
+Skills: ESXi, Kubernetes, TLS, Git, Docker, Linux Administration, Jira, Azure VMs, Prometheus, Firewall, Microsoft
+Intune, Office 365, Google WorkspacePTCL
+Pakistan
+System Administrator
+Feb 2018 – Jul 2021
+Delivered IT infrastructure management with a focus on cloud technologies and system administration. Worked on
+VMware ESXi, Linux and Windows server environments, Docker, and open-source tools.
+Skills: ESXi, Linux, Docker, Kubernetes, Git, Shell Scripting, IIS, Redmine, Grafana, AWS, Prometheus
+Education
+• BS Computer Science
+Virtual University of Pakistan, Lahore
+2013–2017
+• Diploma of Associate Engineer - Instrumentation
+Swedish Pakistani Institute of Technology, Gujrat
+2006–2009
+Certifications
+• AWS Certified Solutions Architect – Associate
+• Microsoft Certified: Azure Administrator Associate
+AWS
+Microsoft
+• Introduction to Git and GitHubCoursera / Google
+• Integrating AWS with the SDKCoursera
+• Fundamentals of Red Hat Enterprise LinuxCoursera
+• Red Hat System Administration and IT Infrastructure ServicesCoursera / Google
+• Crash Course on PythonCoursera / Google
+Projects
+Local PyPI Repository Deployment
+Deployed a local PyPI repository within an isolated network using a Dockerized Nginx server. Maintained a local
+repository of Python libraries, built binary wheel packages, and automated environment setup for streamlined
+development. Integrated GitLab CI/CD for automated builds and deployments.
+Technologies: Docker, Nginx, Python, Wheel, GitLab CI/CD
+Cloud Infrastructure as Code
+Designed and implemented Infrastructure as Code (IaC) with Terraform to provision AWS resources. Automated
+EC2, RDS, and S3 deployments while enforcing IAM-based security best practices.
+Technologies: AWS, Terraform, Python (AWS CLI)
+Monitoring and Logging System
+Deployed a full-stack monitoring and logging solution for a microservices architecture. Configured Prometheus for
+monitoring and alerting, with visualizations through Grafana and Kibana dashboards.
+Technologies: Prometheus, Grafana, Docker
+Containerized Application Deployment
+Containerized multiple applications including Redmine, GitLab, and Nagios using Docker Compose, enabling
+simplified orchestration and scalable deployment.
+Technologies: Docker, Docker Compose
+Apache Spark Installation and Configuration
+Set up Apache Spark for a machine learning lab to handle distributed data processing. Integrated Spark MLlib and
+optimized the system for performance on large datasets.
+Technologies: Apache Spark, Hadoop, Ubuntu, PySpark, Spark MLlib
+GitLab CI/CD Pipeline for GCP VM Management and Deployment
+Developed a secure CI/CD pipeline to automate GCP VM lifecycle operations (start, stop, restart) with role-based
+access controls. Automated Docker-based application deployments, reducing manual steps and improving
+reliability.
+Technologies: GitLab CI/CD, GCP, Docker
